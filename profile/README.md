@@ -16,3 +16,5 @@
 Файл с дизайном/ссылка:
 - [Файл из 6-ой недели (.fig)](./Неделя%206/BirthSync.fig)
 - <https://www.figma.com/design/bFeV5DyboJE5NjQ2vQHaY9/BirthSync?node-id=0-1&p=f>
+
+Ссылка на перечень заданий по неделям: [перейти](./../)
