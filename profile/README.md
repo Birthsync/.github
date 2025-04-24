@@ -21,3 +21,6 @@
 <https://github.com/Birthsync/birthsync.docs.io>
 
 Ссылка на перечень заданий по неделям: [перейти](./../)
+
+Общее планирование (по тикетам и хисторипоинтам кода вообще):
+[<https://github.com/Birthsync/projects/](https://github.com/orgs/Birthsync/projects)>
