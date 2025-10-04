@@ -1,0 +1,6 @@
+Supplier,Total_Landed_Cost,Lead_Time_days,Reject_rate_pct,Capacity_units_per_month,Financial_health_0_100,Regulatory_risk_0_5,Transition_assist_0_5,Score_Cost_0_5,Score_LeadTime_0_5,Score_Quality_0_5,Score_Financial_0_5,Score_Regulatory_0_5,Score_Transition_0_5,Weighted_score_0_5,Recommendation
+Alpha-Metals,10000,20,1.5,10000,85,1,4,5.0,2.0,4.0,4.25,4.0,4.0,3.888,Tactical / Trial (3 мес.)
+Beta-Global,12000,14,2.0,8000,75,2,3,3.0,3.2,3.0,3.75,3.0,3.0,3.152,Emergency only / Stop-gap
+Gamma-Local,11000,10,3.5,5000,65,1,5,4.0,4.0,0.0,3.25,4.0,5.0,3.188,Emergency only / Stop-gap
+Delta-Express,15000,5,2.5,2000,90,3,2,0.0,5.0,2.0,4.5,2.0,2.0,2.475,Emergency only / Stop-gap
+InHouse,13000,30,1.0,3000,95,0,5,2.0,0.0,5.0,4.75,5.0,5.0,3.212,Emergency only / Stop-gap
